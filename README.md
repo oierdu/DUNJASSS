@@ -1,46 +1,60 @@
 <div align="center">
 
-# Oier Duñabeitia
+<h1>Oier Duñabeitia</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+Inteligencia+Artificial;Automatizaci%C3%B3n%2C+IA+aplicada+y+desarrollo;Aprendiendo+cada+d%C3%ADa%2C+construyendo+siempre" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%40+Deusto;Apasionado+por+la+Inteligencia+Artificial;Automatizaci%C3%B3n+%C2%B7+IA+aplicada+%C2%B7+Desarrollo;Aprendiendo+cada+d%C3%ADa%2C+construyendo+siempre" alt="Typing SVG" />
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=DUNJASSS&color=6C63FF&style=flat-square&label=Visitas+al+perfil)
+[![Profile Views](https://komarev.com/ghpvc/?username=DUNJASSS&color=6C63FF&style=flat-square&label=Visitas)](https://github.com/DUNJASSS)
 
 </div>
+
+<br/>
 
 ---
 
 ## Sobre mí
 
-Soy **Oier Duñabeitia**, estudiante de **Ingeniería Informática** en la [Universidad de Deusto](https://www.deusto.es). Me apasiona la tecnología desde su base más técnica hasta su aplicación práctica, con especial foco en la **Inteligencia Artificial** y el desarrollo de software.
+Soy **Oier Duñabeitia**, estudiante de **Ingeniería Informática** en la Universidad de Deusto. Me apasiona la tecnología desde su base técnica hasta su impacto real — con especial foco en la **Inteligencia Artificial** y el desarrollo de software.
 
-Tengo mentalidad de crecimiento continuo: estudio, experimento y construyo. Creo en aprender haciendo — en entender los fundamentos, no solo usar herramientas. Y creo que la IA no es solo un buzzword: es la disciplina más importante del momento, y quiero dominarla.
+No espero a tener todo dominado para empezar. Aprendo haciendo, construyo mientras estudio, y avanzo de forma constante. Creo en los fundamentos sólidos: entender de verdad las cosas antes de simplemente aplicarlas.
 
-```
-⚡ Estudio Ingeniería Informática en Deusto
-🤖 Me especializo en IA y desarrollo de software
-📚 Aprendizaje continuo — cursos, proyectos y práctica constante
-🎯 Objetivo: construir soluciones inteligentes y útiles
-📍 Bilbao, España
-```
+- 🎓 Ingeniería Informática · Universidad de Deusto
+- 🤖 Foco principal en **Inteligencia Artificial** y su aplicación práctica
+- ⚙️ Interesado en automatización, desarrollo y tecnología moderna
+- 📚 Aprendizaje continuo — cursos, proyectos propios, práctica constante
+- 🚀 Mentalidad técnica, orientada a construir soluciones reales
 
 ---
 
-## Intereses y enfoque
+## Intereses
 
-| Área | Qué me atrae |
-|------|-------------|
-| 🤖 **Inteligencia Artificial** | ML, redes neuronales, LLMs y su aplicación real |
-| ⚙️ **Automatización** | Workflows, agentes y sistemas que trabajan solos |
-| 💻 **Desarrollo de software** | Web, backend, scripting y arquitectura limpia |
-| 🔍 **IA aplicada** | Integrar modelos en proyectos reales que aporten valor |
-| 📈 **Crecimiento técnico** | Fundamentos sólidos, no solo copiar y pegar |
+- **Inteligencia Artificial** — machine learning, deep learning, LLMs y todo lo que hay detrás
+- **Automatización** — procesos inteligentes, agentes y sistemas que operan solos
+- **Desarrollo de software** — web, backend, scripting y buenas prácticas
+- **IA aplicada** — no solo teoría: integrar modelos en proyectos con valor real
+- **Tecnología en general** — estar al día, entender hacia dónde va todo y posicionarme ahí
 
 ---
 
-## Stack tecnológico
+## Inteligencia Artificial
+
+La IA es la disciplina que más me interesa dentro de la informática. No como tendencia, sino como **campo técnico real** con fundamentos profundos y aplicaciones que están cambiando todo.
+
+Estoy profundizando en:
+
+- **Machine Learning** — fundamentos matemáticos y estadísticos, modelos supervisados y no supervisados
+- **Deep Learning** — redes neuronales, arquitecturas modernas, entrenamiento y optimización
+- **Modelos de lenguaje (LLMs)** — cómo funcionan, cómo se entrenan y cómo integrarlos en aplicaciones
+- **IA aplicada** — uso de APIs y modelos en proyectos concretos que aporten valor tangible
+- **Automatización inteligente** — agentes, workflows y sistemas que toman decisiones de forma autónoma
+
+> Mi objetivo es pasar del consumo a la construcción: entender la IA lo suficientemente bien como para diseñar y desplegar sistemas propios.
+
+---
+
+## Stack y tecnologías
 
 <div align="center">
 
@@ -58,63 +72,49 @@ Tengo mentalidad de crecimiento continuo: estudio, experimento y construyo. Creo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**IA y datos — en profundización**
+**IA y datos — aprendiendo activamente**
 
-![Python](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
-
----
-
-## Inteligencia Artificial — mi foco principal
-
-La IA es el área que más me atrae dentro de la informática. No como concepto de moda, sino como **herramienta concreta para construir cosas que funcionan y que importan**.
-
-Estoy profundizando en:
-
-- **Machine Learning** — desde los fundamentos matemáticos hasta la implementación práctica
-- **Redes neuronales y Deep Learning** — arquitecturas, entrenamiento y aplicación
-- **Modelos de lenguaje (LLMs)** — cómo funcionan internamente y cómo integrarlos en aplicaciones reales
-- **Automatización inteligente** — agentes, workflows y sistemas que toman decisiones
-- **IA aplicada** — uso real de APIs y modelos en proyectos propios con valor concreto
-
-> Mi objetivo no es solo entender la teoría — es saber construir y desplegar sistemas inteligentes reales.
 
 ---
 
 ## Actualmente aprendiendo
 
-- 📐 Fundamentos matemáticos de **Machine Learning** (álgebra lineal, estadística, cálculo aplicado)
-- 🧠 **Deep Learning** y arquitecturas de redes neuronales
-- 🔗 Integración de **APIs de IA** (OpenAI, Hugging Face) en aplicaciones web
-- 🐍 Buenas prácticas y arquitectura de proyectos en **Python**
-- 🔄 Ecosistema moderno de IA: **LangChain**, embeddings, RAG y agentes
+```text
+▸ Fundamentos matemáticos de ML — álgebra lineal, estadística, cálculo aplicado
+▸ Deep Learning — arquitecturas de redes neuronales, backpropagation, CNN, RNN
+▸ LLMs — transformers, fine-tuning, RAG y sistemas de agentes
+▸ APIs de IA — integración práctica de OpenAI, Hugging Face y herramientas modernas
+▸ Python avanzado — buenas prácticas, arquitectura limpia y proyectos estructurados
+▸ Desarrollo web — construyendo proyectos propios para aplicar todo lo anterior
+```
 
 ---
 
 ## Enfoque profesional
 
-Estoy construyendo una base técnica sólida con visión clara a largo plazo.
+Estoy construyendo una base técnica sólida con visión a largo plazo.
 
-No busco atajos. Busco **entender en profundidad**, construir proyectos reales y desarrollar criterio técnico propio. La diferencia entre alguien que usa herramientas y alguien que las construye está en los fundamentos — y en eso estoy trabajando.
+No me interesa solo usar herramientas — me interesa entender cómo funcionan por dentro. La diferencia entre un desarrollador que depende de lo que ya existe y uno que puede construir lo que necesita está en la profundidad del conocimiento base. En eso estoy trabajando.
 
-Mi dirección: **desarrollador con perfil especializado en IA**, capaz de diseñar, construir y desplegar sistemas inteligentes que aporten valor real en proyectos concretos.
+**Mi dirección clara:** desarrollador especializado en **IA y automatización**, capaz de diseñar, implementar y desplegar sistemas inteligentes reales. Con criterio técnico propio, no solo conocimiento de superficie.
 
 ---
 
-## Estadísticas de GitHub
+## Estadísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DUNJASSS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUNJASSS&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DUNJASSS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUNJASSS&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DUNJASSS&theme=tokyonight&hide_border=true)
 
@@ -126,10 +126,10 @@ Mi dirección: **desarrollador con perfil especializado en IA**, capaz de diseñ
 
 <div align="center">
 
-Si quieres hablar de tecnología, IA o colaborar en algo, aquí estoy.
+¿Quieres hablar de tecnología, IA o colaborar en algo?
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oier.dunabeitia@opendeusto.es)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DUNJASSS)
+[![Email](https://img.shields.io/badge/oier.dunabeitia@opendeusto.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oier.dunabeitia@opendeusto.es)
+[![GitHub](https://img.shields.io/badge/@DUNJASSS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DUNJASSS)
 
 </div>
 
@@ -139,8 +139,6 @@ Si quieres hablar de tecnología, IA o colaborar en algo, aquí estoy.
 
 *"La mejor forma de predecir el futuro es construirlo."*
 
-<br/>
-
-**Oier Duñabeitia** · Ingeniería Informática · Deusto · IA & Desarrollo
+<sub>Oier Duñabeitia · Ingeniería Informática · Universidad de Deusto</sub>
 
 </div>
